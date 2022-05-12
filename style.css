@@ -56,8 +56,14 @@ input:nth-of-type(2):hover {
 table {
     font-size: large;
     border-collapse: collapse;
+    text-align: center;
 }
 table th {
     width: 150px;
+    padding: 10px;
     border: 1px solid #fef9ef;
+}
+table td {
+    border: 1px solid #fef9ef;
+    padding: 10px;
 }
